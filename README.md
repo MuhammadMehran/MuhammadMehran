@@ -16,16 +16,7 @@ const profile = {
   name: "Muhammad Mehran",
   bio: "Full Stack Developer specializing in Medusa.js, Next.js, and Python. Passionate about building scalable and high-performance applications.",
   code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "SQL"],
-  frontend: [
-    "HTML",
-    "CSS",
-    "TailwindCSS",
-    "React",
-    "NextJS",
-    "Vue",
-    "NuxtJS",
-    "Odoo",
-  ],
+  frontend: ["HTML", "CSS", "TailwindCSS", "React", "NextJS"],
   backend: ["MedusaJS", "Rest APIs", "Django", "Flask", "FAST API"],
   database: ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
 };
